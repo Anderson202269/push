@@ -1,0 +1,40 @@
+h4{ color : black}
+
+
+
+
+/* Tirar o sublinado dos Nome_dos_cursos  */
+a:link {
+    text-decoration: none;
+    margin: 20px 20px;
+  
+    
+     }
+
+     body {
+        background-color: white;
+        margin: 30px 0px opx;
+        padding:26px 24px ;
+      }
+
+      #Formulario_dados{
+          display:flexbox;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          justify-content: space-between;
+
+      }
+      #texto_dados_esqueceu{
+        text-align: left;
+        align-items: baseline;
+        display: inline-block;
+      }
+
+      #texto_dados_esquerda{
+
+        text-align: right;
+        align-items: baseline;
+        display: inline-block;        
+        
+      }

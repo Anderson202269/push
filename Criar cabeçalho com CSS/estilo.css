@@ -1,0 +1,35 @@
+
+#Nome_cabecalho{
+    width: 653px;
+    height: 100px;
+    background-color: darkgrey;
+    padding: 05px ;
+    display: flex;
+
+}
+   
+
+
+/* Deixar em linas Nome_dos_cursos */
+#Nome_dos_cursos{
+    display: inline-flex   ;
+   
+}
+
+
+/* Tirar o sublinado dos Nome_dos_cursos  */
+a:link {
+    text-decoration: none;
+    margin: 10px 10px;
+ 
+  
+    
+    
+     }
+
+     
+ul { list-style: none;/* Tirar a "bolinha"  */
+    
+    
+    
+}

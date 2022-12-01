@@ -1,0 +1,55 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background:#c4c4c4;
+
+    display:flex ;
+    flex-direction:column ;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_login
+{
+    width: 400px;
+    height: 400px;
+    background:#fff ;
+    flex-direction:column ;
+
+}
+
+
+.form{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+#texto_dados_esqueceu{
+    text-align: flex;
+    align-items: baseline;
+    display: flex;
+    
+  }
+
+  #texto_dados_esquerda{
+
+    text-align: center;
+    align-items: baseline;
+    display: flex;   
+       
+    
+  }
+
+  #Criar_conta{
+    text-align: center;
+
+  }
+
+  #butao{
+    text-align: center;
+
+  }
